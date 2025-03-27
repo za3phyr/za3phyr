@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaeph_yr
+- 👋 Hi, I’m Asher Oserada
 - 👀 I’m interested in software analysis and development
 - 🌱 I’m currently studying Software Engineering
 - 😄 Pronouns: He/Him
