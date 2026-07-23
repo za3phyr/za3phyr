@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Asher Oserada👋
 
-<!--
-**za3phyr/za3phyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently graduated Software Engineer, building out a portfolio one project at a time.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently
+Figuring out which corner of software engineering to specialize in — exploring mobile, backend, and a few things in between through hands-on projects.
+
+#### 📌 Featured Projects
+- **[DrivingLicenseReminderApp](https://github.com/za3phyr/DrivingLicenseReminderApp)** — Driving license & road tax reminder app, mobile & web
+- **[VolunteerApp](https://github.com/za3phyr/VolunteerApp)** — Volunteer management app, mobile & web
+- **[ExpenseManagementMobileApp](https://github.com/za3phyr/ExpenseManagementMobileApp)** — Expense & budgeting app, mobile & web
